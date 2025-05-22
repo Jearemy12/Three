@@ -11,7 +11,7 @@ const Navbar = () => {
     <nav className="bg-gray-800 text-white px-4 py-3 md:px-8">
       <div className="max-w-7xl mx-auto flex justify-between items-center">
         <a href="/" className="text-2xl font-bold">
-          Atta Khan
+          Muntazir Mehdi
         </a>
 
         {/* Desktop Menu */}
